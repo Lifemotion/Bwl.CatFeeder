@@ -1,0 +1,14 @@
+.vs
+*.suo
+local.*
+temp.*
+obj
+bin
+*release*
+*debug*
+output
+conf
+logs
+*.dxf
+*.bak
+~*
